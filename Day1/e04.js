@@ -1,12 +1,12 @@
-let course = 'Namaste NodeJs'
+let course = "Namaste NodeJs";
 let coursePrice = 4999;
 
-function sum(a,b){
-    return a+b;
+function sum(a, b) {
+  return a + b;
 }
 
 module.exports = {
-    sum,
-    course,
-    coursePrice
+  sum,
+  course,
+  coursePrice,
 };
