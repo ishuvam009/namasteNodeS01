@@ -8,3 +8,7 @@ const result2 = sum(99,1);
 console.log(JSON.stringify(data));
 console.log(result1);
 console.log(result2);
+
+
+
+console.log();
